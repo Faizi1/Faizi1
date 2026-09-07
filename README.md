@@ -1,101 +1,85 @@
-<div align="center">
+<h1 align="center">Hi, I'm Faiz Sagheer 👋</h1>
+<h3 align="center">Backend Software Engineer — Python & Django, expanding into AI / LLM / Agentic AI</h3>
 
-# Hi, I'm Faiz 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faizi1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/faiz-sagheer-5b857718b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:faizsagheer4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-**Python Backend Developer** — Django · REST APIs · PostgreSQL · Docker
-Advancing from backend engineering into AI, LLMs & Agentic AI
+I build scalable REST APIs and backend systems in **Python** and **Django**, with production experience in PostgreSQL, Redis, Celery, Docker, and CI/CD. I've also integrated AI services (image & audio analysis) into live backend systems, and I'm now going deeper into **LLMs, RAG, and agentic AI** — building on that same backend foundation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizsagheer-5b857718b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizsagheer4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://faizi1.github.io/faiz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/faiz_sagheer)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/faizi1)
+- 🔭 Currently building backend systems with **Django / DRF / FastAPI**, and integrating **AI services** into production APIs
+- 🌱 Currently learning **RAG, LangChain, LangGraph, and AI agent design**
+- 🤝 Open to collaborating on **Python/Django backend projects** and **LLM-powered applications**
+- 📫 Reach me at **faizsagheer4@gmail.com**
+- 🌐 Portfolio: [faizi1.github.io/faiz](https://faizi1.github.io/faiz)
 
-</div>
+<br>
 
----
+### 🛠 Backend Stack
 
-### Who I am
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-I build scalable backend systems and REST APIs in **Python/Django**, with production experience integrating AI services into live products. My background is solidly backend-first — I'm now extending it toward **LLM application development and agentic AI**, treating it as the next layer on top of solid API and systems design, not a separate skill set.
+**Also comfortable with:** REST API design, JWT/OAuth 2.0, WebSockets (Django Channels), MQTT, Git, CI/CD (GitHub Actions, Jenkins, GitLab CI), Vue.js, React
 
-### What I build
+<br>
 
-- REST APIs and backend services with Django, DRF, and FastAPI
-- Access-controlled, subscription/plan-based backend systems
-- Real-time and IoT-adjacent communication (WebSockets, MQTT)
-- Data processing pipelines and workflow automation
+### 🤖 AI / LLM / Agentic AI — Currently Building Up
 
-### What I'm learning
+I have hands-on experience wiring AI services into production backends (image & audio analysis pipelines via the OpenAI API), and I'm actively expanding into LLM application development:
 
-- LLM application architecture, RAG pipelines, and agent orchestration
-- Grounding AI features on top of reliable, production-grade backend infrastructure
+| Area | Status |
+|---|---|
+| AI service integration into backend APIs (OpenAI API) | ✅ Hands-on experience |
+| RAG (Retrieval-Augmented Generation) | 🌱 Learning / building |
+| LangChain & LangGraph | 🌱 Learning / building |
+| AI Agents / Agentic AI, tool calling | 🌱 Learning / building |
+| Vector databases, embeddings, semantic search | 🌱 Exploring |
+| MCP (Model Context Protocol) | 🌱 Exploring |
 
----
+<br>
 
-### 🧱 Backend & APIs
+### ⚙️ Tools & Platforms
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT%20%2F%20OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-REST APIs · WebSockets (Django Channels) · Celery · Third-party API integration
-
-### 🗄️ Data & Caching
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-MQTT (real-time messaging)
-
-### ⚙️ DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-CI/CD (Jenkins, GitLab CI, GitHub Actions)
-
-### 🎨 Frontend Exposure
-
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
----
-
-### 🤖 AI / LLM / Agentic AI
-
-**Experienced with**
-
-Integrating AI services (image & audio analysis) into production backend systems
-
-**Currently learning**
-
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-LangGraph · RAG (Retrieval-Augmented Generation) · Vector databases & embeddings · Semantic search · Prompt engineering · Tool / function calling · Model Context Protocol (MCP) · AI agents
-
----
+<br>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizi1&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Faiz's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizi1&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizi1&show_icons=true&locale=en&theme=default" alt="faizi1 stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizi1&show_icons=true&locale=en&layout=compact" alt="faizi1 top languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=faizi1&hide_border=true" alt="GitHub streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizi1" alt="faizi1 streak" />
 </p>
 
----
+<br>
 
-### Connect
+### 🔗 Connect
 
-[LinkedIn](https://linkedin.com/in/faizsagheer-5b857718b) · [Email](mailto:faizsagheer4@gmail.com) · [Portfolio](https://faizi1.github.io/faiz) · [Twitter](https://twitter.com/faiz_sagheer) · [dev.to](https://dev.to/faizi1) · [Instagram](https://instagram.com/faaiiz___)
+<p align="left">
+<a href="https://linkedin.com/in/faiz-sagheer-5b857718b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/faiz_sagheer" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://dev.to/faizi1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+</p>
